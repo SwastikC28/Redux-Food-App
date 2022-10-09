@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Redux-Food-App/static/css/main.266219a4.chunk.css",
+    "main.js": "/Redux-Food-App/static/js/main.5d5cac0a.chunk.js",
+    "main.js.map": "/Redux-Food-App/static/js/main.5d5cac0a.chunk.js.map",
+    "runtime-main.js": "/Redux-Food-App/static/js/runtime-main.90d60b02.js",
+    "runtime-main.js.map": "/Redux-Food-App/static/js/runtime-main.90d60b02.js.map",
+    "static/js/2.e7af7148.chunk.js": "/Redux-Food-App/static/js/2.e7af7148.chunk.js",
+    "static/js/2.e7af7148.chunk.js.map": "/Redux-Food-App/static/js/2.e7af7148.chunk.js.map",
+    "index.html": "/Redux-Food-App/index.html",
+    "static/css/main.266219a4.chunk.css.map": "/Redux-Food-App/static/css/main.266219a4.chunk.css.map",
+    "static/js/2.e7af7148.chunk.js.LICENSE.txt": "/Redux-Food-App/static/js/2.e7af7148.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90d60b02.js",
+    "static/js/2.e7af7148.chunk.js",
+    "static/css/main.266219a4.chunk.css",
+    "static/js/main.5d5cac0a.chunk.js"
+  ]
+}
